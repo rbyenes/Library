@@ -1,0 +1,14 @@
+C:\Users\heyen\source\repos\Library\Library.Business\obj\Debug\Library.Business.csproj.AssemblyReference.cache
+C:\Users\heyen\source\repos\Library\Library.Business\obj\Debug\Library.Business.csproj.CoreCompileInputs.cache
+C:\Users\heyen\source\repos\Library\Library.Business\bin\Debug\Library.Business.dll
+C:\Users\heyen\source\repos\Library\Library.Business\bin\Debug\Library.Business.pdb
+C:\Users\heyen\source\repos\Library\Library.Business\bin\Debug\Library.DataAccess.dll
+C:\Users\heyen\source\repos\Library\Library.Business\bin\Debug\Library.Entities.dll
+C:\Users\heyen\source\repos\Library\Library.Business\bin\Debug\EntityFramework.dll
+C:\Users\heyen\source\repos\Library\Library.Business\bin\Debug\Library.DataAccess.pdb
+C:\Users\heyen\source\repos\Library\Library.Business\bin\Debug\Library.DataAccess.dll.config
+C:\Users\heyen\source\repos\Library\Library.Business\bin\Debug\Library.Entities.pdb
+C:\Users\heyen\source\repos\Library\Library.Business\bin\Debug\EntityFramework.xml
+C:\Users\heyen\source\repos\Library\Library.Business\obj\Debug\Library.Business.csproj.CopyComplete
+C:\Users\heyen\source\repos\Library\Library.Business\obj\Debug\Library.Business.dll
+C:\Users\heyen\source\repos\Library\Library.Business\obj\Debug\Library.Business.pdb
